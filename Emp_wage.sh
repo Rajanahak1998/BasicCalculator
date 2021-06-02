@@ -1,0 +1,2 @@
+  
+check=$((RANDOM%2))
